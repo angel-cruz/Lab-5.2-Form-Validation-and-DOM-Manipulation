@@ -14,7 +14,7 @@ HTML5 uses attributes like `required`, `minlength`, and `pattern`. JavaScript gi
 
 ### 3. How did you use `localStorage`?
 
-I used `localStorage.setItem()` to save the username and `localStorage.getItem()` to retrieve it later. I would not store passwords there because `localStorage` is not secure for sensitive information.
+I used `localStorage.setItem()` to save the username and `localStorage.getItem()` to retrieve it later. I would not store passwords there because `localStorage` is not secure for sensitive information
 
 ### 4. What challenge did you face with real-time validation?
 
