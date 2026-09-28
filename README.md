@@ -18,7 +18,7 @@ I used `localStorage.setItem()` to save the username and `localStorage.getItem()
 
 ### 4. What challenge did you face with real-time validation?
 
-A challenge was keeping the confirm password field updated when the original password changed. I solved this by checking the confirm password again whenever the password field was edited.
+A challenge was keeping the confirm password field updated when the original password changed. I solved this by checking the confirm password again whenever the password field was edited
 
 ### 5. How did you make error messages user-friendly?
 
