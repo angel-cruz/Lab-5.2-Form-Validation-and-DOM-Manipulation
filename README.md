@@ -22,4 +22,4 @@ A challenge was keeping the confirm password field updated when the original pas
 
 ### 5. How did you make error messages user-friendly?
 
-I gave each field its own clear error message and updated the message while the user typed. When the input became valid, the error message was removed.
+I gave each field its own clear error message and updated the message while the user typed. When the input became valid, the error message was removed
