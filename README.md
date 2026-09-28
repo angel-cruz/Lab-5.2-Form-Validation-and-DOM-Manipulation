@@ -6,7 +6,7 @@ DOM manipulation, event handling, HTML5 and JavaScript form validation, and loca
 
 ### 1. How did `event.preventDefault()` help in handling form submission?
 
-I used `event.preventDefault()` to stop the form from refreshing before validation finished. This allowed JavaScript to check the fields first and show errors if needed.
+I used `event.preventDefault()` to stop the form from refreshing before validation finished. This allowed JavaScript to check the fields first and show errors if needed
 
 ### 2. What is the difference between HTML5 validation and JavaScript validation?
 
