@@ -10,7 +10,7 @@ I used `event.preventDefault()` to stop the form from refreshing before validati
 
 ### 2. What is the difference between HTML5 validation and JavaScript validation?
 
-HTML5 uses attributes like `required`, `minlength`, and `pattern`. JavaScript gives more control over custom messages and extra checks, like matching passwords. I used both to make validation stronger and easier for the user.
+HTML5 uses attributes like `required`, `minlength`, and `pattern`. JavaScript gives more control over custom messages and extra checks, like matching passwords. I used both to make validation stronger and easier for the user
 
 ### 3. How did you use `localStorage`?
 
